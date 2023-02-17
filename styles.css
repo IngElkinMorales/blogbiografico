@@ -51,6 +51,7 @@ main .titulo1 h1{
     padding: 9px;
     border-radius: 0 20px;
     margin-top: 5px;
+    box-shadow: 2px 2px 5px rgb(0, 223, 134);
 }
 main .biografia{
     width: 90%;
